@@ -44,7 +44,7 @@ for evento in leer:
 	if 'info' in evento:
 		print ("info " + evento["info"])
 	if 'leyenda' in evento:
-		leer = json.loads(open('EventosInfoBilbao.json',encoding="utf8").read())
+		#leer = json.loads(open('EventosInfoBilbao.json',encoding="utf8").read())
 		for leyenda in evento["leyenda"]:
 			print (leyenda)
 	if 'parametros' in evento:
