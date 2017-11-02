@@ -1,7 +1,10 @@
+#! /usr/bin/python3
+# -*- coding: utf-8 -*-
+
 """
 	BilboExplorer - Descubre Bilbao!
     Copyright (C) 2017  Kepa Muñoz (kepa10@gmail.com)
-   
+
 	This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -13,12 +16,13 @@
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>. 
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
+
 
 import csv
 
-with open('LugaresInteresTuristico.csv') as csvfile:
+with open('datos/LugaresInteresTuristico.csv') as csvfile:
     leer = csv.reader(csvfile, delimiter=';')
     for lugar in leer:
         print(lugar[0],lugar[1],lugar[6],lugar[4],lugar[8],lugar[10],lugar[11])
