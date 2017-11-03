@@ -1,6 +1,88 @@
 
 	[
 			
+		{"fecha_hasta":"17-11-2017","tipo":"Exposiciones","lugar":"Fundación Bilbao Arte","titulo":"Declinaciones. Exposición colectiva de obra gráfica producida en la Fundación BilbaoArte.","direccion":"Calle Urazurrutia 32 48003 Bilbao","fecha_desde":"03-11-2017","id":"1279172368764"		
+			,"observaciones":"<p>&nbsp;(Patio de Cristal)</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172368764&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
+		{"fecha_hasta":"04-11-2017","tipo":"Cine","lugar":"Santana 27","titulo":"Kontzertua. Andy & Lucas + Akais. \/ Kontzertua. Moonspell + Bizarra Locomotiva + Norunda. ","direccion":"Calle Telleria 27 48004 Bilbao","hora":"Día 3, 21:30 (12 \u20AC \/ 30 \u20AC) \/ día 4, 19:00 (23 \u20AC \/ 28 \u20AC)","fecha_desde":"03-11-2017","id":"1279172281467"		
+			,"observaciones":"<p>&nbsp;(Patio de Cristal)</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172281467&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
+		{"fecha_hasta":"05-11-2017","tipo":"Teatro y Danza","lugar":"Euskalduna Jauregia. Palacio de Congresos y de la Música","titulo":"Antzerkia. Viejóvenes. Ernesto Sevilla + Joaquín Reyes.","direccion":"Avenida Abandoibarra 4 48011 Bilbao","hora":"Día 3, 21:00 \/ día 4, 19:00\/22:00 \/ día 5, 19:00 ","fecha_desde":"03-11-2017","id":"1279172277961"		
+			,"observaciones":"<p>&nbsp;34 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172277961&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
+		{"fecha_hasta":"03-11-2017","tipo":"Teatro y Danza","lugar":"Hika Ateneo","titulo":"Kontzertua. Elegí un mal día para dejarte. El Cifu. ","direccion":"Hika Ateneo","hora":"21:00","fecha_desde":"03-11-2017","id":"1279172274879"		
+			,"observaciones":"<p>&nbsp;5 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172274879&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":"Ibaiondo"}]},
+			
+		{"fecha_hasta":"04-11-2017","tipo":"Música","lugar":"Sala Stage Live","titulo":"Kontzertua. Tu madre es puta. \/ Kontzertua. Saratoga. ","direccion":"Sala Stage Live","hora":"20:30","fecha_desde":"03-11-2017","id":"1279172266978"		
+			,"observaciones":"<p>&nbsp;D&iacute;a 3, 12 &euro; / D&iacute;a 4, desde 16, 5 &euro; (Saratoga)</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172266978&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":"Abando"}]},
+			
+		{"fecha_hasta":"05-11-2017","tipo":"Teatro y Danza","lugar":"","titulo":"Antzerkia. Makiescénica. Buñuel (conversatorio post-mortem. Getari Etxegarai + Irene Bau + Mikel Losada + Ramón Barea (dirección y dramaturgia). ","direccion":"","hora":"20:00\/19:00(día 5)","fecha_desde":"03-11-2017","id":"1279172255509"		
+			,"observaciones":"<p>&nbsp;15 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172255509&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento"},
+			
+		{"fecha_hasta":"03-11-2017","tipo":"Música","lugar":"Bilborock","titulo":"Antzerkia. Método Grönholm. Asociación Teatral Green Room. ","direccion":"Muelle Merced de la 1 48003 Bilbao","hora":"20:00","fecha_desde":"03-11-2017","id":"1279172255206"		
+			,"observaciones":"<p>10 &euro; / 12 &euro;&nbsp;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172255206&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
+		{"fecha_hasta":"04-11-2017","tipo":"Teatro y Danza","lugar":"Garabia ZAWP Aretoa","titulo":"Antzerkia. Los rostros del silencio. ","direccion":"Garabia ZAWP Aretoa","hora":"20:00","fecha_desde":"03-11-2017","id":"1279172254917"		
+			,"observaciones":"<p>&nbsp;10 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172254917&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":"Deusto"}]},
+			
+		{"fecha_hasta":"03-11-2017","tipo":"Música","lugar":"Basílica de Begoña","titulo":"Concierto de órgano y coro. XII Festival de Órgano de Bizkaia \u201CBizkaiko hotsak 2017\u201C. Bach + Franck + Jenkins + Lauridsen + Rutte. Orfeoi Gazte del Orfeón Donostiarra. Alize Mendizabal.","direccion":"Basílica de Begoña","hora":"20:00","fecha_desde":"03-11-2017","id":"1279172254516"		
+			,"observaciones":"<p>&nbsp;10 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172254516&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":"Begoña"}]},
+			
+		{"fecha_hasta":"03-11-2017","tipo":"Teatro y Danza","lugar":"","titulo":"Antzerkia. Bilboko Zirkuitua. Aire de París. A Trompicones.","direccion":"","hora":"19:30","fecha_desde":"03-11-2017","id":"1279172250471"		
+			,"observaciones":"<p>&nbsp;10 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172250471&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento"},
+			
+		{"fecha_hasta":"03-11-2017","tipo":"Jornada, Conferencia, Congreso","lugar":"Fundación Bilbao Arte","titulo":"Conferencia. Begira Photo. Basado en hechos reales. Txema Salvans. \/ Zinema. Reflejos y distorsiones: cinco citas con el arte y sus creadores. I\u2019m still here (VOSE). Casey Affleck.","direccion":"Calle Urazurrutia 32 48003 Bilbao","hora":"19:00","fecha_desde":"03-11-2017","id":"1279172249115"		
+			,"observaciones":"<p>&nbsp;10 &euro;</p>",
+		  "info":""
+		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172249115&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
+		{"fecha_hasta":"28-11-2017","tipo":"Cursos, Becas, Talleres","lugar":"Biblioteca Foral de Bizkaia","titulo":"Crear y recrear el empoderamiento: literatura para la igualdad\r\nEmilia Arias. \/ Musicoterapia (II). Aránzazu Calleja. \/ Bizkaidatz Txikia VI. Literatura saria \/ VI Premio literario Bizkaidatz Txikia.","direccion":"Calle Diputacion 7 48008 Bilbao","fecha_desde":"03-11-2017","id":"1279171667261"		
+			,"observaciones":"<p><div>Bizkaidatz Txikia VI. Literatura saria /&nbsp;VI Premio literario Bizkaidatz Txikia</div><div>Haur eta gazteen literatura saria /&nbsp;Premio literario infantil y juvenil (2017-2018).</div><div>8-16 urte/a&ntilde;os.</div><div>- Idazlanaren hasiera:&nbsp;Leire Bilbao (euskara).</div><div>- Inicio del relato:</div><div>Toti Mart&iacute;nez de Lezea (castellano).</div><div>L<span class=\"negrita\">ehiaketaren hasiera / Apertura concurso: Azaroaren 24an.</span></div></p><p>Crear y recrear el empoderamiento: literatura para la igualdad.&nbsp;Emilia Arias.&nbsp;<br /><span class=\"negrita\">Azaroaren </span><span class=\"negrita\">7tik 28ra / Del 7 al 28 de noviembre.&nbsp;</span>18:00-20:00 (astearteetan / los martes). <br />I<span class=\"negrita\">zena emateko epea / Plazo</span> <span class=\"negrita\">inscripci&oacute;n</span>: Urriaren 16tik 31ra / Del 16 al 31 de octubre.<br /><br />Musicoterapia (II).&nbsp;Ar&aacute;nzazu Calleja<br /><span class=\"negrita\">Azaroaren 3tik 24ra / Del 3 al 24 de noviembre</span>.&nbsp;18:00-20:00 (ostiraletan / los viernes).<br /><span class=\"negrita\">Izena emateko epea / Plazo de inscripci&oacute;n:&nbsp;</span>Urriaren 9tik 27ra / Del 9 al 27 de octubre.</p>",
+		  "info":"<p><a href=\"http://www.bizkaia.eus/foruliburutegia\" target=\"_blank\">www.bizkaia.eus/foruliburutegia</a>&nbsp;</p>"
+		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
+				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279171667261&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
+				{"distrito":""}]},
+			
 		{"fecha_hasta":"30-11-2017","tipo":"Deporte","lugar":"","organiza":"Área de Salud y Consumo","titulo":"Red de Caminantes de Noviembre","direccion":"","hora":"11:00-13:00","fecha_desde":"02-11-2017","programa":"www.bilbao.net_CSEMBEDTYPE_=internal&amp;_PAGENAME_=Bilbaonet%2FBIO_Documento_FA%2FBIO_Documento&amp;_cid_=1279172557525&amp;_c_=BIO_Documento_FA&amp;_PACKEDARGS_=fp%3AmostrarTamanyo%3Dsi&amp;_ADDITIONALPARAMS_=fp%3AmostrarTamanyo%3Dsi","id":"1279172557960"		
 			,"observaciones":"<p>La Red de Caminantes es un programa de promoci&oacute;n de la salud que se ofrece de una manera abierta a todos los bilba&iacute;nos y bilba&iacute;nas a partir de 18 a&ntilde;os que deseen incorporar h&aacute;bitos m&aacute;s saludables a su vida cotidiana.&nbsp;</p><p>Los caminantes ser&aacute;n guiados por un monitor/dinamizador que ajustar&aacute; el ritmo y la intensidad de la marcha a la capacidad f&iacute;sica de los participantes cada d&iacute;a.</p><p>Los/as ciudadanos/as que deseen participar no necesitan inscribirse. Tan s&oacute;lo tendr&aacute;n que personarse en la fecha y lugar indicados en el calendario mensual.</p>",
 		  "info":""
@@ -31,27 +113,6 @@
 				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172247976&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
 				{"distrito":"Abando"}]},
 			
-		{"fecha_hasta":"02-11-2017","tipo":"Música","lugar":"La Fundición","titulo":"Kontzertua. Rock de Cámara. Mississippi Queen & The Wet Dogs. \r\n","direccion":"Calle Macia Francesc 1 48014 Bilbao","hora":"20:00","fecha_desde":"02-11-2017","id":"1279172247635"		
-			,"observaciones":"<p>&nbsp;12 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172247635&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":""}]},
-			
-		{"fecha_hasta":"02-11-2017","tipo":"Música","lugar":"Teatro Arriaga","titulo":"Kontzertua. Jorge Drexler. ","direccion":"Plaza Arriaga 1 48005 Bilbao","hora":"20:00","fecha_desde":"02-11-2017","id":"1279172244737"		
-			,"observaciones":"<p>&nbsp;14 &euro; / 30 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172244737&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":""}]},
-			
-		{"fecha_hasta":"02-11-2017","tipo":"Teatro y Danza","lugar":"Centro Municipal de Otxarkoaga","titulo":"Antzerkia. Bilboko Zirkuitua. Los impresentables. Iuris Tantum.","direccion":"Avenida Casals Pau 19 48004 Bilbao","hora":"19:30","fecha_desde":"02-11-2017","id":"1279172243202"		
-			,"observaciones":"<p>&nbsp;14 &euro; / 30 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172243202&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":""}]},
-			
 		{"fecha_hasta":"03-11-2017","tipo":"Música","lugar":"Euskalduna Jauregia. Palacio de Congresos y de la Música","titulo":"Kontzertu sinfonikoa. Temporada BOS nº 2. Obras de W.A. Mozart + A. Berg + R. Strauss. Hanna-Elisabeth Müller (sorprano) + Erik Nielsen (director). ","direccion":"Avenida Abandoibarra 4 48011 Bilbao","hora":"19:30","fecha_desde":"02-11-2017","id":"1279172241415"		
 			,"observaciones":"<p>&nbsp;3,70 &euro; / 30,80 &euro;</p>",
 		  "info":""
@@ -59,29 +120,8 @@
 				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172241415&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
 				{"distrito":""}]},
 			
-		{"fecha_hasta":"02-11-2017","tipo":"Jornada, Conferencia, Congreso","lugar":"Fundación Bilbao Arte","titulo":"Conferencia. Begira Photo. Fotolibros: narrar con fotografías. Ros Boisier. \/ Zinema. Reflejos y distorsiones: cinco citas con el arte y sus creadores. Ai Weiwei: Never Sorry (VOSE). Alison Klayman. \/ Presentación de fotolibro. Begira Photo. Infinito artificial. Fernando Maselli.","direccion":"Calle Urazurrutia 32 48003 Bilbao","hora":"19:00\/19:45","fecha_desde":"02-11-2017","id":"1279172240853"		
-			,"observaciones":"<p>&nbsp;3,70 &euro; / 30,80 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en castellano"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172240853&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":""}]},
-			
-		{"fecha_hasta":"02-11-2017","tipo":"Infantiles","lugar":"Biblioteca Municipal de San Francisco","titulo":"Ipuin kontaketa. Love Theatre (en inglés).","direccion":"Plaza Corazon de Maria 2 48003 Bilbao","hora":"18:00","fecha_desde":"02-11-2017","id":"1279172238642"		
-			,"observaciones":"<p>&nbsp;3,70 &euro; / 30,80 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento gratuito"},{"idioma":"Evento en euskera"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172238642&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":""}]},
-			
-		{"fecha_hasta":"02-11-2017","tipo":"Cine","lugar":"Azkuna Zentroa","titulo":"Zinemateka. Zinema. Ciclo John Huston. Heaven Knows, Mr. Allison\r\n(1957) \/ Sólo Dios lo sabe (VOSE). Deborah Kerr + Robert Mitchum +\r\nMasao Ukon. \/ Ciclo Christine Vachon. I\u2019 m not there \/ Yo no estoy aquí (VOSE). Todd Haynes, 2007.","direccion":"Azkuna Zentroa","hora":"17:00\/19:30","fecha_desde":"02-11-2017","id":"1279172238116"		
-			,"observaciones":"<p>&nbsp;3,5 &euro; / 4,5 &euro;</p>",
-		  "info":""
-		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
-				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172238116&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[
-				{"distrito":"Abando"}]},
-			
 		{"fecha_hasta":"01-12-2017","tipo":"Exposiciones","lugar":"Arkeologi Museoa - Museo Arqueológico de Bizkaia","titulo":"Mesterikako lantza muturra (Meñaka) \/ La punta de lanza de Mesterika (Meñaka).","direccion":"Calzadas Mallona de 2 48006 Bilbao","fecha_desde":"01-11-2017","id":"1279172364472"		
-			,"observaciones":"<p>&nbsp;3,5 &euro; / 4,5 &euro;</p>",
+			,"observaciones":"<p>&nbsp;3,70 &euro; / 30,80 &euro;</p>",
 		  "info":""
 		,"leyenda":[{"tipo":"Evento de pago"},{"idioma":"Evento en castellano"}
 				],"parametros":"http://www.bilbao.net/cs/Satellite?c=BIO_Evento_FA&amp;cid=1279172364472&amp;language=es&amp;pageid=1272990243152&amp;pagename=Bilbaonet/BIO_Evento_FA/BIO_Evento","distritos":[

@@ -20,9 +20,10 @@
 
 """
 import json
+from datos.datos import dstAgendaBilbao
 
 # leemos el json con los datos de la agenda de eventos
-leer = json.loads(open('datos/EventosInfoBilbao.json',encoding='utf-8').read())
+leer = json.loads(open(dstAgendaBilbao,encoding='utf-8').read())
 
 # de cada evento sacamos sus datos
 for evento in leer:

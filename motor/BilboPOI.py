@@ -21,8 +21,9 @@
 
 
 import csv
+from datos.datos import dstPOIBilbao
 
-with open('datos/LugaresInteresTuristico.csv') as csvfile:
+with open(dstPOIBilbao, encoding='iso-8859-1') as csvfile:
     leer = csv.reader(csvfile, delimiter=';')
     for lugar in leer:
         print(lugar[0],lugar[1],lugar[6],lugar[4],lugar[8],lugar[10],lugar[11])
