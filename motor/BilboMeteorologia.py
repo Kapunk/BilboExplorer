@@ -18,13 +18,17 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
+import json
+from datos.datos import aemetAPI,aemetURL
+import requests
+import urllib3
+# desabilitamos los warnings para que no nos de el error de certificado al recoger la peticion de aemet
+urllib3.disable_warnings()
 
+r = requests.get(url=aemetURL+aemetAPI, verify=False)
+print(r.json()["datos"])
 
-urlAgendaBilbao = 'http://www.bilbao.eus/cs/Satellite?c=Page&cid=1272990237857&pageid=1272990237857&idioma=es&pagename=Bilbaonet/Page/BIO_ListadoEventosAppInfoBilbao&todos=si'
-dstAgendaBilbao = 'datos/EventosInfoBilbao.json'
+leer = requests.get(url=r.json()["datos"], verify=False)
 
-urlPOIBilbao = 'http://www.bilbao.eus/aytoonline/jsp/od_dataset.jsp?idioma=&formato=csv&dataset=LugaresInteresTuristico'
-dstPOIBilbao = 'datos/LugaresInteresTuristico.csv'
-
-aemetAPI = <AQUI PON LA API DE AEMET>
-aemetURL = "https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/horaria/48020/?api_key="
+for evento in leer:
+    print (evento)
