@@ -30,5 +30,18 @@ print(r.json()["datos"])
 
 leer = requests.get(url=r.json()["datos"], verify=False)
 
-for evento in leer:
-    print (evento)
+dia = leer.json()[0]["prediccion"]["dia"]
+
+for predMetDia in dia:
+
+	print ("Fecha: "+ predMetDia["fecha"])
+	print ("Amanecer: "+ predMetDia["orto"])
+	print ("Anochecer: "+ predMetDia["ocaso"])
+
+	for temperatura in predMetDia["temperatura"]:
+		print("temperatura: "+temperatura["value"])
+		print("hora: "+temperatura["periodo"])
+
+	for lluvia in predMetDia["precipitacion"]:
+		print("lluvia: "+lluvia["value"]+"%")
+		print("hora: "+lluvia["periodo"])
