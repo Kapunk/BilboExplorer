@@ -21,6 +21,7 @@
 """
 import json
 from datos.datos import dstAgendaBilbao
+import BilboGeoLocalizacion
 
 # leemos el json con los datos de la agenda de eventos
 leer = json.loads(open(dstAgendaBilbao,encoding='utf-8').read())
@@ -36,6 +37,9 @@ for evento in leer:
 		print ("lugar " + evento["lugar"])
 	if 'direccion' in evento:
 		print ("direccion " + evento["direccion"])
+		direccion = BilboGeoLocalizacion.geolocalizacion(evento["direccion"])
+		print(direccion.obtenerCoordenadas())
+		#print (obtenerCoordenadas())
 	if 'fecha_desde' in evento:
 		print ("fecha_desde " + evento["fecha_desde"])
 	if 'id' in evento:
@@ -45,12 +49,7 @@ for evento in leer:
 	if 'info' in evento:
 		print ("info " + evento["info"])
 	if 'leyenda' in evento:
-		#leer = json.loads(open('EventosInfoBilbao.json',encoding="utf8").read())
-		for leyenda in evento["leyenda"]:
-			print (leyenda)
-	if 'parametros' in evento:
-		print ("parametros " + evento["parametros"])
-	if 'distritos' in evento:
-		for distrito in evento["distritos"]:
-			print (distrito)
+		print(evento["leyenda"][0]['tipo']) # Pago (1) Gratuito (2)
+		print(evento["leyenda"][1]['idioma']) # Castellano (1) Euskera (2) Bilingue (3)
+
 	print ("___________________")
