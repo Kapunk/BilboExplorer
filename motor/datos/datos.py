@@ -30,6 +30,3 @@ dstPOIBilbao = 'datos/LugaresInteresTuristico.csv'
 #recogemos la prediccion del tiempo de aemet SOLO para la ciudad de bilbao
 aemetAPI = <PON AQUI TU API KEY>
 aemetURL = "https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/horaria/48020/?api_key="
-
-#traducimos a coordenadas aquellos lugares que nos las tienen en open data bilbao
-googleGeocode = 'https://maps.googleapis.com/maps/api/geocode/json?address='
